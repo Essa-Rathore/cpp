@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main<> {
+  cout << "Hello,World!" << "\n";
+ cout << "I AM ESSA" << "\n" ;
+cout << "i am practiciting \n" ;
+cout << "to write hello world and intro \n";
+return 0 ;
+  }
